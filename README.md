@@ -2,7 +2,7 @@
 
 ## Features
 
-- **Language:** C++
+- **Languages:** Typescript,JSX,PostGreSQL,Java,Springboot,Maven
 - **Version Control:** `.gitignore` included for common build artifacts
 
 *Note: Detailed features and functionalities are to be documented as the project evolves.*
@@ -13,7 +13,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PanagiwthsPapatheodoropoulos/3D_Rendering_Engine.git
+   git clone https://github.com/PanagiwthsPapatheodoropoulos/FullStack-Cite.git
    ```
 
 ## License
